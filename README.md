@@ -1,10 +1,11 @@
 Hidden Labyrinth
 =================
-Project Input/Output
-Semester 14/15
-University of Applied Sciences Potsdam
+
+Course **Input/Output**
+
+Semester **2014/15**
+
+**University of Applied Sciences Potsdam**
 
 
-
-CC BY-SA 4.0
-http://creativecommons.org/licenses/by-sa/4.0/
+Arduino-code for the physical bits project - a game revolving around finding a path between two points over a maxium of 78 different fields
